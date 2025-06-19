@@ -1,5 +1,4 @@
-# 🤖 AI Chatbot with Memory (Streamlit + LangChain + Ollama)
-(ai_agent.py)
+# 🤖 AI Chatbot with Memory (Streamlit + LangChain + Ollama) (ai_agent.py)
 This project is a basic AI-powered chatbot with memory, built using **Streamlit**, **LangChain**, and **Ollama**. The chatbot retains context from previous conversations using session-based memory.
 
 ## 🔧 Features
