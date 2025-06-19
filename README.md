@@ -17,8 +17,7 @@ This project is a basic AI-powered chatbot with memory, built using **Streamlit*
 - **LangChain** – for prompt templates and memory
 - **Ollama** – to serve LLMs like Mistral locally
 
-HERE YOU CAN CHECK WITH THE LINK BELOW
-Local URL: http://localhost:8501
+
 
 
 
@@ -40,5 +39,3 @@ This project is a voice-enabled AI chatbot built with **Streamlit**, **LangChain
 - 🌐 Streamlit-powered Web UI
 - 🧠 Supports local LLMs like `mistral` via [Ollama](https://ollama.com/)
 
-HERE YOU CAN CHECK WITH THE LINK BELOW
-Local URL: http://localhost:8502
